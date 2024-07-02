@@ -3,7 +3,7 @@
 
 
 
-This is the repository of the supplementary files for the above manuscript. Four files are attached herwith.
+This is the repository of the supplementary files for the above manuscript. Five files are attached herwith.
 Supplementary File 1a presents the RNA Seq data for the drug Tamoxifen.
 Supplementary File 1b presents the RNA Seq data for the drug Docetaxel.
 Supplementary File 1c presents the RNA Seq data for the drug Paclitaxel.
